@@ -52,7 +52,7 @@ Each of these forts have Portals back to the Starting (spawn) location (fort).<b
 <br/>
 In order to use this world you will need to download the zip file and extract it. You will then need to place the contained<br/>
 files into your saves area for Valhiem on your computer. You can typically find this in:<br/>
-<b>C:\Users\username\AppData\LocalLow\IronGate\Valheim\</b>
+<b>C:\Users\username\AppData\LocalLow\IronGate\Valheim\ </b>
 <br/>
 Replace "username" above with your user's name. If you have trouble with this, search the web for help, there are<br/>
 several websites that provide detailed information on this process for sharing Valheim worlds.<br/>
