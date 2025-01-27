@@ -24,6 +24,11 @@ accross the world.<br />
 I started to wonder if other players who have invested considerable time into a world, would be more willing to switch to<br/>
 a new world if it had been set up like I have done in this case.<br/>
 <br/>
+This world was created between October 2024 and January 31, 2025. Ashlands and it's boss exists. You will have to explore<br/>
+and create your own bases in any new biomes that are released by irongate.se in the future. A word of caution, research indicates<br/>
+that if you build in an area that irongate.se has not finished developing, your bases/forts/changes may be wiped out after<br/>
+an update.<br/>
+<br/>
 # Main Details
 At the time of creating this world, that I have zipped up and shared here, I was a Black Forest level player. So, the <br/>
 technologies that I used while creating all the buildings and their fortifications are only what would be available to<br/>
