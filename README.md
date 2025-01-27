@@ -12,7 +12,7 @@ will be like, the topography, environments (biomes), and spawn points of items a
 After playing for quite a while, a player may decide that they are not fond of the seed (world) that they started<br />
 with. They perhaps learn from watching videos online and searching forums that there are better seeds (worlds).<br />
 <br />
-After searching for some time for the "seeds" that were shared online, and examining what they look like I decided<br/>
+After searching for some time for the "seeds" that were shared online, and examining what they look like, I decided<br/>
 that this seed is the one that I think is best: <b>WBFzViM6sG</b><br/>
 <br/>
 When I created a new world using this seed, I was hesitant to switch to it as my main world at first. I had invested so much<br />
