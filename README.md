@@ -44,7 +44,9 @@ Each of these forts have Portals back to the Starting (spawn) location (fort).<b
 In order to use this world you will need to download the zip file and extract it. You will then need to place the contained<br/>
 files into your saves area for Valhiem on your computer. You can typically find this in:<br/>
 C:\Users\<username>\AppData\LocalLow\IronGate\Valheim\<br/>
-
+Replace "<username>" above with your user's name. If you have trouble with this, search the web for help, there are<br/>
+several websites that provide detailed information on this process for sharing Valheim worlds.<br/>
+<br/>
 # Summary
 This world save would probably be most appreaciated by someone who has already played Valheim for a while and who<br/>
 wants to try starting over on a new world seed. If you are already past the Black Forest level of player, you may<br/>
@@ -53,7 +55,9 @@ the navigation via portals to each of the areas would have some value to you.<br
 Of course if you want the original experience of Valheim, you will most likely still appreciate starting<br/>
 out with the seed that I indicated above, WBFzViM6sG.<br/>
 <br/>
-
+You are welcome to use this world for individual or multiplayer use as well as to share it and/or alter as you like.<br/>
+Enjoy!<br/>
+<br/>
 
 
 
