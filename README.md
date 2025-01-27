@@ -37,7 +37,7 @@ a Black Forest level character.<br/>
 Additionally, I noticed that the bosses that I had defeated on the first world are not carried over to this new world.<br/>
 That means that when you switch to this world, you will only be seeing the raids that would be appropriate to a new<br/>
 player, and you will need to kill any bosses that you had already killed elsewhere on this world again.<br/>
-For further clarification, the world save remembers the bosses that were killed, I have not killed any on this new world yet.<br/>
+For further clarification, the "world save files" remembers the bosses that were killed, I have not killed any on this new world yet.<br/>
 <br/>
 I found locations near each biome, i.e. Swamp, Mountains, Plains etc., that had a boss spawn for that biome, and that had<br/>
 either Meadows or Black Forest biomes near by, and I have built forts in those nearby Meadows and Black Forest biomes to<br/>
