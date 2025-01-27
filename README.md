@@ -50,6 +50,9 @@ They should not be hard for you to find<br/>
 <br/>
 Each of these forts have Portals back to the Starting (spawn) location (fort).<br/>
 <br/>
+I tested this world with a new character and vanilla Valheim, i.e. no mods, and it loaded and played fine.<br/>
+I don't forsee you having any issues using it whether you use mods or not.<br/>
+<br/>
 In order to use this world you will need to download the zip file and extract it. You will then need to place the contained<br/>
 files into your saves area for Valhiem on your computer. You can typically find this in:<br/>
 <b>C:\Users\username\AppData\LocalLow\IronGate\Valheim\ </b>
