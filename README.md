@@ -56,8 +56,8 @@ They should not be hard for you to find
 I don't forsee you having any issues using it whether you use mods or not.
 </p>
 <p>In order to use this world you will need to download the zip file and extract it. You will then need to place the contained
-files into your saves area for Valhiem worlds on your computer. You can typically find this in:
-<b>C:\Users\username\AppData\LocalLow\IronGate\Valheim\worlds_local\ </b>
+files into your saves area for Valhiem worlds on your computer. You can typically find this in:</p>
+<p><b>C:\Users\username\AppData\LocalLow\IronGate\Valheim\worlds_local\ </b>
 </p>
 <p>Replace "username" above with your user's name. If you have trouble with this, search the web for help, there are
 several websites that provide detailed information on this process for sharing Valheim worlds.
