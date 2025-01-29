@@ -24,11 +24,11 @@ accross the world.<br />
 I started to wonder if other players who have invested considerable time into a world, would be more willing to switch to<br/>
 a new world if it had been set up like I have done in this case.<br/>
 <br/>
-This world was created between November 2024 and January 28, 2025. Ashlands and it's boss exists on this map. You will have to explore<br/>
-explore and create your own bases in any new biomes (i.e. Deep North) that are released by irongate.se in the future. A word of caution,<br/>
-research indicates that if you build in an area that irongate.se has not finished developing, your bases/forts/changes may be wiped out<br/>
-aftera game update that releases content for that new biome. I left a small shack, NORTHBED, with a portal close to the Deep North for<br/>
-your convenience when that biome is finally released.<br/>
+This world was created between November 2024 and January 28, 2025. Ashlands and it's boss exists on this map. You will have<br/>
+to explore and create your own bases in any new biomes (i.e. Deep North) that are released by irongate.se in the future. A <br/>
+word of caution, research indicates that if you build in an area that irongate.se has not finished developing, your <br/>
+bases/forts/changes may be wiped out after a game update that releases content for that new biome. I left a small shack, <br/>
+NORTHBED, with a portal close to the Deep North for your convenience when that biome is finally released.<br/>
 <br/>
 # Main Details
 At the time of creating this world, that I have zipped up and shared here, I was a Black Forest level player. So, the <br/>
