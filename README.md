@@ -60,6 +60,9 @@ files into your saves area for Valhiem on your computer. You can typically find 
 Replace "username" above with your user's name. If you have trouble with this, search the web for help, there are<br/>
 several websites that provide detailed information on this process for sharing Valheim worlds.<br/>
 <br/>
+If you happen to find a bed that belongs to someone else, delete it and build it again so that you can claim it with<br/>
+your character.<br/>
+<br/>
 # Summary
 These world save files would probably be most appreaciated by someone who has already played Valheim for a while and who<br/>
 wants to try starting over on a new world seed. If you are already past the Black Forest level of player, you may<br/>
