@@ -63,6 +63,9 @@ several websites that provide detailed information on this process for sharing V
 If you happen to find a bed that belongs to someone else, delete it and build it again so that you can claim it with<br/>
 your character.<br/>
 <br/>
+I left the materials for a boat (Karve) in a chest on the dock of the spawn (starting) area. I also left an assembled Karve at the<br />
+SOUTHFORT location, but, I don't recommend going to SOUTHFORT or sailing from there if you are a new player.<br/>
+<br/>
 # Summary
 These world save files would probably be most appreaciated by someone who has already played Valheim for a while and who<br/>
 wants to try starting over on a new world seed. If you are already past the Black Forest level of player, you may<br/>
