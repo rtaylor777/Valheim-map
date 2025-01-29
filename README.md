@@ -30,6 +30,7 @@ future. A word of caution, research indicates that if you build in an area that 
 bases/forts/changes may be wiped out after a game update that releases content for that new biome. I left a small shack,
 NORTHBED, with a portal close to the Deep North for your convenience when that biome is finally released.
 </p>
+
 # Main Details
 <p>At the time of creating this world, that I have zipped up and shared here, I was a Black Forest level player. So, the
 technologies that I used while creating all of the buildings and their fortifications are only what would be available to
@@ -67,6 +68,7 @@ your character.
 <p>I left the materials for a boat (Karve) in a chest on the dock of the spawn (starting) area. I also left an assembled Karve at the
 SOUTHFORT location, but, I don't recommend going to SOUTHFORT or sailing from there if you are a new player.
 </p>
+
 # Summary
 <p>These world save files would probably be most appreaciated by someone who has already played Valheim for a while and who
 wants to try starting over on a new world seed. If you are already past the Black Forest level of player, you may
