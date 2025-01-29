@@ -66,11 +66,11 @@ your character.<br/>
 # Summary
 These world save files would probably be most appreaciated by someone who has already played Valheim for a while and who<br/>
 wants to try starting over on a new world seed. If you are already past the Black Forest level of player, you may<br/>
-want to replace the buildings and/or fortifications with more advanced techniques and materials. But you should still find<br/>
+want to replace the buildings and/or fortifications with more advanced techniques and materials, but you should still find<br/>
 the navigation via portals to each of the areas would have some value to you.<br/>
 <br/>
 Of course if you want the original experience of Valheim (i.e. without my help), you will most likely still appreciate<br/> 
-starting out from scratch with the seed that I indicated above, WBFzViM6sG.<br/>
+starting out from scratch with the seed that I indicated above, mentioned here again for your convenience... WBFzViM6sG.<br/>
 <br/>
 You are welcome to use this world for individual or multiplayer use as well as to share it and/or alter as you like.<br/>
 Enjoy!<br/>
