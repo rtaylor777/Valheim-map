@@ -87,6 +87,17 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 <p>Enjoy!
 </p>
 
+# Video Streams/Streamers that use SuperCrypt40 as their map
+....
+
+# Video Reviews of the SuperCrypt40 map.
+....
+
+
+
+
+
+
 
 
 
