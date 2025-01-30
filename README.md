@@ -17,7 +17,7 @@ that this seed is the one that I think is best: <b>WBFzViM6sG</b>
 </p>
 <p>
 I just found the original video where I first discovered the above seed. 
-https://www.youtube.com/watch?v=XVNKDY6lNiU&t=644s
+[https://www.youtube.com/watch?v=XVNKDY6lNiU&t=644s](https://www.youtube.com/watch?v=XVNKDY6lNiU&t=644s)
 </p>
 <p>When I created a new world using this seed, I was hesitant to switch to it as my main world at first. I had invested so much
 time creating buildings and fortifications in my original map that it was a hard thing for me to switch.
