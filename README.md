@@ -14,6 +14,8 @@ with. They perhaps learn from watching videos online and searching forums that t
 </p>
 <p>After searching for some time for the "seeds" that were shared online, and examining what they look like, I decided
 that this seed is the one that I think is best: <b>WBFzViM6sG</b>
+</p>
+<p>
 I just found the original video where I first discovered the above seed. https://www.youtube.com/watch?v=XVNKDY6lNiU&t=644s
 </p>
 <p>When I created a new world using this seed, I was hesitant to switch to it as my main world at first. I had invested so much
