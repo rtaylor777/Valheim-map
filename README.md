@@ -87,8 +87,8 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 <p>Enjoy!
 </p>
 
-# An Orientation/Itroductory Video of the SuperCrypt40 world.
-....
+# An Orientation/Itroductory Video of the SuperCrypt40 world (29 minutes)
+https://youtu.be/_CmMShQO5eI
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 ....
