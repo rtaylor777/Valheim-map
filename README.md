@@ -69,8 +69,8 @@ several websites that provide detailed information on this process for sharing V
 <p>If you happen to find a bed that belongs to someone else, delete it and build it again so that you can claim it with
 your character.
 </p>
-<p>I left the materials for a boat (Karve) in a chest on the dock of the spawn (starting) area. I also left an assembled Karve at the
-SOUTHFORT location, but, I don't recommend going to SOUTHFORT or sailing from there if you are a new player.
+<p>I left the materials for a boat (Karve) in a chest on the dock of the spawn (starting) area. I also left an assembled Karve near the 
+trader Hildir.
 </p>
 
 # Summary
