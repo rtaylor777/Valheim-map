@@ -72,6 +72,12 @@ your character.
 <p>I left the materials for a boat (Karve) in a chest on the dock of the spawn (starting) area. I also left an assembled Karve near the 
 trader Hildir.
 </p>
+<p>Renaming the 2 files that you receive in the download, will result in a world called SuperCrypt40 (newfilename) being listed
+in your Valheim worlds, where "newfilename" is the name that you changed the filename to. In this way you can have multiple
+SuperCrypt40 worlds going at the same time and Valheim can keep them straight based on their filenames. This allows me, for
+example, to have a SuperCrypt40solo world as well as the Supercrypt40 world so that I can serve one up as a shared world
+between my friends while also having a unique copy of the world for my own solo playthrough.
+</p>
 
 # Summary
 <p>These world save files would probably be most appreaciated by someone who has already played Valheim for a while and who
@@ -91,7 +97,7 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 https://youtu.be/_CmMShQO5eI
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
-....
+https://www.twitch.tv/loficody
 
 # Video Reviews of the SuperCrypt40 world.
 ....
