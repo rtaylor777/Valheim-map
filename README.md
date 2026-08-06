@@ -116,6 +116,8 @@ automatically find the other files.</p>
 There is one big building with a portal from the spawn area to it. Since most of the world is unexplored and unaltered, it may be fun to use it to
 start a new character, but with the advantage of having all the Ashlands level items. This was uploaded here on Aug 1, 2026</p>
 
+<p>Here is an intro video for the MainBase world that I created: https://www.twitch.tv/videos/2839199086 </p>
+
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
 
