@@ -69,6 +69,9 @@ several websites that provide detailed information on this process for sharing V
 <p>You can try pasting this into your file explorer:</p>
 <p><b>%AppData%\..\LocalLow\IronGate\Valheim\worlds_local\</b></p>
 
+<p>I typically like to have a shortcut on my Desktop that goes to %AppData%\..\LocalLow\IronGate\Valheim\ so that I can easily navigate
+to where I locally have saves for characters and worlds.</p>
+
 <p>If you happen to find a bed that belongs to someone else, delete it and build it again so that you can claim it with
 your character.
 </p>
