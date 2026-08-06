@@ -63,10 +63,9 @@ I don't forsee you having any issues using it whether you use mods or not.
 files into your saves area for Valhiem worlds on your computer. You can typically find this in:</p>
 <p><b>C:\Users\username\AppData\LocalLow\IronGate\Valheim\worlds_local\ </b>
 </p>
-<p>Replace "username" above with your user's name. If you have trouble with this, search the web for help, there are
-several websites that provide detailed information on this process for sharing Valheim worlds.
-</p>
-<p>You can try pasting this into your file explorer:</p>
+<p>Replace "username" above with your user's name.</p>
+
+<p>If you are having trouble finding the "worlds_local" folder, you can try pasting this into your file explorer:</p>
 <p><b>%AppData%\..\LocalLow\IronGate\Valheim\worlds_local\</b></p>
 
 <p>I typically like to have a shortcut on my Desktop that goes to %AppData%\..\LocalLow\IronGate\Valheim\ so that I can easily navigate
@@ -86,7 +85,12 @@ SuperCrypt40 worlds going at the same time and Valheim can keep them straight ba
 example, to have a SuperCrypt40solo world as well as the Supercrypt40 world so that I can serve one up as a shared world
 between my friends while also having a unique copy of the world for my own solo playthrough.
 </p>
-
+<p>It is worth noting that if you play multiple copies of the same world, your location in the world is synchronized between worlds.
+I run into this sometimes when I switch between worlds. On one of the world copies I might be in a building that I created and on another world
+when I log in I will find myself in the same location but without the building. This can be hazardous if you are up high in a building since
+you will fall out of the air on the world where there is no building. Best practice is to go to a common area before switching back and forth
+between worlds.</p>
+  
 # Summary
 <p>These world save files would probably be most appreaciated by someone who has already played Valheim for a while and who
 wants to try starting over on a new world seed. If you are already past the Black Forest level of player, you may
