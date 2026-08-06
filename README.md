@@ -104,12 +104,17 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 </p>
 <p>Enjoy!
 </p>
-<p>PS. ashlands.7z.001, ashlands.7z.002, and ashlands.7z.003 is the Supercrypt40solo map after Ashlands is explored and Fader is defeated. Latest as of Aug 1, 2026.
-I had to ask 7zip to break it into 3 files because of upload limits on Github. Use 7zip to open the first file and have the other 2 files in the same directory, it should
-work.</p>
-<p>PPS mainbase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. Latest as of Aug 1, 2026</p>
 # An Orientation/Itroductory Video of the SuperCrypt40 world (29 minutes)
 https://youtu.be/_CmMShQO5eI
+
+# About The Other Files
+<p>The files ashlands.7z.001, ashlands.7z.002, and ashlands.7z.003 is the Supercrypt40solo map after Ashlands is explored and Fader is defeated. Latest as of Aug 1, 2026.
+I had to ask 7zip to break it into 3 files because of upload limits on Github. Use 7zip to open the first file and have the other 2 files in the same directory/folder, it should
+work.</p>
+
+<p>The mainbase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. This was created from the seed: KQ3EHPZVA
+There is one big building with a portal from the spawn area to it. Since most of the world is unexplored and unaltered, it may be fun to use it to
+start a new character, but with the advantage of having all the Ashlands level items. This was uploaded Aug 1, 2026</p>
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
