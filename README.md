@@ -66,6 +66,9 @@ files into your saves area for Valhiem worlds on your computer. You can typicall
 <p>Replace "username" above with your user's name. If you have trouble with this, search the web for help, there are
 several websites that provide detailed information on this process for sharing Valheim worlds.
 </p>
+<p></p>You can try pasting this into your file explorer:
+%AppData%\..\LocalLow\IronGate\Valheim\worlds_local\</p>
+
 <p>If you happen to find a bed that belongs to someone else, delete it and build it again so that you can claim it with
 your character.
 </p>
