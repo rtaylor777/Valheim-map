@@ -70,10 +70,9 @@ several websites that provide detailed information on this process for sharing V
 <p><b>%AppData%\..\LocalLow\IronGate\Valheim\worlds_local\</b></p>
 
 <p>I typically like to have a shortcut on my Desktop that goes to %AppData%\..\LocalLow\IronGate\Valheim\ so that I can easily navigate
-to where I locally have saves for characters and worlds.</p>
-
-<p>In the file explorer, navigate until the folder Valheim is visible in the details pane of explorer. Using the right mouse button, click on Valheim to open the
-shortcut menu, and then navigate to the "Send to" and then select "Desktop (create shortcut)".</p>
+to where I locally have saves for characters and worlds. To create the shortcut, in the file explorer, navigate until the folder Valheim is 
+visible in the details pane of explorer. Using the right mouse button, click on Valheim to open the
+shortcut menu, then navigate to the "Send to" and then select "Desktop (create shortcut)".</p>
 
 <p>Once you start Valheim and start exploring, if you happen to find a bed that belongs to someone else, delete it and build it again so that you can claim it with
 your character.
