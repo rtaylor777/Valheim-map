@@ -71,6 +71,7 @@ several websites that provide detailed information on this process for sharing V
 
 <p>I typically like to have a shortcut on my Desktop that goes to %AppData%\..\LocalLow\IronGate\Valheim\ so that I can easily navigate
 to where I locally have saves for characters and worlds.</p>
+
 <p>In the file explorer, navigate until the folder Valheim is visible in the details pane of explorer. Using the right mouse button, click on Valheim to open the
 shortcut menu, and then navigate to the "Send to" and then select "Desktop (create shortcut)".</p>
 
