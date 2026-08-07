@@ -119,7 +119,8 @@ start a new character, but with the advantage of having all the Ashlands level i
 <p>Here is an intro video for the MainBase world that I created: https://www.twitch.tv/videos/2839199086 </p>
 
 <p>sc40main.7z is a new world using my favorite seed: <b>WBFzViM6sG</b>. I have created a shack on the beach to aid with my swimming training. It may help someone new
-to get started with a new character.</p>
+to get started with a new character. I left 4 of my spawned skeletons from my main character behind to assist you. They can be killed so they will not last 
+forever.</p>
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
