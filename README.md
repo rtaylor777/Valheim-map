@@ -123,6 +123,9 @@ to get started with a new character. I left 4 of my spawned skeletons from my ma
 
 <p>Intro video for sc40main world: https://www.twitch.tv/videos/2839933988</p>
 
+<p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass.</p>
+
+
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
 
