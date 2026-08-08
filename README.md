@@ -123,7 +123,9 @@ to get started with a new character. I left 4 of my spawned skeletons from my ma
 
 <p>Intro video for sc40main world: https://www.twitch.tv/videos/2839933988</p>
 
-<p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass.</p>
+<p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
+useful for training (leveling skill) in various weapons. As I tried to mention in the video, it is the # of hits that levels up a skill not the amount of 
+damage that is done, so using weak weapons saves time as you don't have to spawn Bonemass as many times.</p>
 
 <p>Here is an intro video to the bonemassarena.7z file: https://www.twitch.tv/videos/2840947855</p>
 
