@@ -134,6 +134,7 @@ damage that is done, so using weak weapons saves time as you don't have to spawn
 <p>block_trainer.7z is another copy of the Supercrypt40solo world. I built an underground block trainer near the Bonefort that is full of skeleton archers. You
 can more quickly level up your block but it can be dangerous so watch the video to see how it works.</p>
 
+<p>Intro video for block_trainer.7z: https://www.twitch.tv/videos/2847223965</p>
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
