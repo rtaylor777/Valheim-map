@@ -108,15 +108,17 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 https://youtu.be/_CmMShQO5eI
 
 # About The Other Files
-<p>The files ashlands.7z.001, ashlands.7z.002, and ashlands.7z.003 is the Supercrypt40solo map after Ashlands is explored and Fader is defeated. Latest as of Aug 1, 2026.
-I had to ask 7zip to break it into 3 files because of upload file size limits on Github. Use 7zip to open the first file and have the other 2 files in the same directory/folder, 7zip should
-automatically find the other files.</p>
+<p>The files Solo.7z.001 and Solo.7z.002 are the Supercrypt40 map which I have renamed to Solo. This map is after Ashlands is explored and Fader is defeated. Latest as of Sept 17, 2026.
+I made sure that the Deep North has generated correctly and I have actually started working in the Deep North. You will find some Deep North items in various chests in the Marble Fortress
+that is located at the Spawn. I had to ask 7zip to break it into 2 files because of upload file size limits on Github. Use 7zip to open the first file and have the other file in the same 
+directory/folder, 7zip should automatically find the other file. </p>
 
-<p>Video to introduce the ashlands.7z.* downloads with the contained Supercrypt40solo world: https://www.twitch.tv/videos/2840918077</p>
+<p>Video to introduce the Solo.7z.* downloads (yes these were called ashlands.7z.* at the time of the video)
+with the contained Supercrypt40 Solo world: https://www.twitch.tv/videos/2840918077</p>
 
-<p>The mainbase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. This was created from the seed: KQ3EHPZVA</br>
-There is one big building with a portal from the spawn area to it. Since most of the world is unexplored and unaltered, it may be fun to use it to
-start a new character, but with the advantage of having all the Ashlands level items. This was uploaded here on Aug 1, 2026</p>
+<p>The MainBase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. This was created from the seed: KQ3EHPZVA</br>
+There is one big marble building with a portal from the spawn area to it. Since most of the world is unexplored and unaltered, it may be fun to use it to
+start a new character, but with the advantage of having all the Ashlands level items, and several Deep North items. This was uploaded here on Sept 17, 2026</p>
 
 <p>Here is an intro video for the MainBase world that I created: https://www.twitch.tv/videos/2839199086 </p>
 
