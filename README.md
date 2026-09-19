@@ -32,12 +32,8 @@ accross the world.
 <p>I started to wonder if other players who have invested considerable time into a world, would be more willing to switch to
 a new world if it had been set up like I have done in this case.
 </p>
-<p>This world was created between November 2024 and February 1, 2025. Ashlands and it's boss, Fader, exists on this map. You
-will have to explore and create your own bases in any new biomes (i.e. Deep North) that are released by irongate.se in the
-future. A word of caution, research indicates that if you build in an area that irongate.se has not finished developing, your
-bases/forts/changes may be wiped out after a game update that releases content for that new biome. I left a small shack,
-NORTHBED, with a portal close to the Deep North for your convenience when that biome is finally released.
-</p>
+<p>This world was created between November 2024 and February 1, 2025. You will have to explore and create your own bases in the Deep North
+on this Supercrypt40 world..</p>
 
 # Main Details
 <p>At the time of creating this world, that I have zipped up and shared here, I was a Black Forest level player. So, the
