@@ -6,7 +6,7 @@ Valheim is a survival type of game, food plays an important role in the player's
 <br/>
 # Disclaimer
 <p>Download the Valheim worlds that are shared here and feel free to make them your own. I don't want them back. But,
-of course, use them at your own risk I make no warantee or guarantee's concerning them.
+of course, use them at your own risk, I make no warantee or guarantee's concerning them.
   
 # Intro
 <p>Most people who play Valheim start by creating a new player, and then a new world that is based on a
@@ -112,7 +112,7 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 https://youtu.be/_CmMShQO5eI
 
 # About The Other Files
-<p>The files Solo.7z.001 and Solo.7z.002 are the Supercrypt40 map which I have renamed to Solo. This map is after Ashlands is explored and Fader is defeated. Latest as of Sept 17, 2026.
+<p>The files Solo.7z.001 and Solo.7z.002 are the Supercrypt40 map which I have renamed to Solo. This map is after Ashlands is explored and Fader is defeated. Latest as of Sept 18, 2026.
 I made sure that the Deep North has generated correctly and I have actually started working in the Deep North. You will find some Deep North items in various chests in the Marble Fortress
 that is located at the Spawn. I had to ask 7zip to break it into 2 files because of upload file size limits on Github. Use 7zip to open the first file and have the other file in the same 
 directory/folder, 7zip should automatically find the other file. </p>
