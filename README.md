@@ -107,7 +107,7 @@ starting out from scratch with the seed that I indicated above, mentioned here a
 # An Orientation/Itroductory Video of the SuperCrypt40 world (29 minutes)
 https://youtu.be/_CmMShQO5eI
 
-# About The Other Files
+# About The Other Worlds That I Have Shared Here
 <p>The files Solo.7z.001 and Solo.7z.002 are the Supercrypt40 map which I have renamed to Solo. This map is after Ashlands is explored and Fader is defeated. Latest as of Sept 18, 2026.
 I made sure that the Deep North has generated correctly and I have actually started working in the Deep North. You will find some Deep North items in various chests in the Marble Fortress
 that is located at the Spawn. I had to ask 7zip to break it into 2 files because of upload file size limits on Github. Use 7zip to open the first file and have the other file in the same 
