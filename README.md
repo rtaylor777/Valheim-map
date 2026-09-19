@@ -8,9 +8,11 @@ Valheim is a survival type of game, food plays an important role in the player's
 <p>Download the Valheim worlds that are shared here and feel free to make them your own. I don't want them back. But,
 of course, use them at your own risk, I make no warantee or guarantee's concerning them.
 
+## Note
+<p>- You can destroy and re-build any beds that you find in the shared worlds so that you can claim them as your own. </p>
+<p>- The worlds are based on Vanilla (default) Valheim, no mods are required to use them. </p>
 
-
-# SuperCrypt40 World
+# SuperCrypt40 World  
 ![Alt Text](images/supercrypt40base.jpg "The home base on the SuperCrypt40 world")
 <p>The SuperCrypt40 world is based on the seed: WBFzViM6sG</p>
 <p>The image above is the main base that was built near the spawn.</p>
