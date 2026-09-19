@@ -41,27 +41,35 @@ directory/folder, 7zip should automatically find the other file. </p>
 ## Video to introduce the Solo.7z.* downloads (yes these were called ashlands.7z.* at the time of the video)
 https://www.twitch.tv/videos/2840918077
 
+# MainBase World
 <p>The MainBase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. This was created from the seed: KQ3EHPZVA</br>
 There is one big marble building with a portal from the spawn area to it. Since most of the world is unexplored and unaltered, it may be fun to use it to
 start a new character, but with the advantage of having all the Ashlands level items, and several Deep North items. This was uploaded here on Sept 17, 2026</p>
 
-<p>Here is an intro video for the MainBase world that I created: https://www.twitch.tv/videos/2839199086 </p>
+## Video intro for MainBase
+https://www.twitch.tv/videos/2839199086
 
+# sc40main World
 <p>sc40main.7z is a new world using my favorite seed: WBFzViM6sG. I have created a shack on the beach to aid with my swimming training. It may help someone new
 to get started with a new character. I left 4 of my spawned skeletons from my main character behind but unfortunately, they won't follow you and they will disappear. </p>
 
-<p>Intro video for sc40main world: https://www.twitch.tv/videos/2839933988</p>
+## Video intro for sc40main
+https://www.twitch.tv/videos/2839933988
 
+# Bonemassarena World
 <p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
 useful for training (leveling skill) in various weapons. As I tried to mention in the video, it is the # of hits that levels up a skill not the amount of 
 damage that is done, so using weak weapons saves time as you don't have to spawn Bonemass as many times.</p>
 
-<p>Here is an intro video to the bonemassarena.7z file: https://www.twitch.tv/videos/2840947855</p>
+## Intro Video for Bonemassarena
+https://www.twitch.tv/videos/2840947855
 
+# block_trainer World
 <p>block_trainer.7z is another copy of the Supercrypt40solo world. I built an underground block trainer near the Bonefort that is full of skeleton archers. You
 can more quickly level up your block but it can be dangerous so watch the video to see how it works.</p>
 
-<p>Intro video for block_trainer.7z: https://www.twitch.tv/videos/2847223965</p>
+## Intro Video for block_trainer
+https://www.twitch.tv/videos/2847223965
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
