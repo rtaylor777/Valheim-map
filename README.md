@@ -57,6 +57,9 @@ https://www.twitch.tv/videos/2840918077
 https://www.twitch.tv/videos/2839199086
 
 # sc40main World
+
+![Alt Text](images/sc40main.jpg "The sc40main World")
+
 <p>sc40main.7z is a new world using my favorite seed: WBFzViM6sG. I have created a shack on the beach to aid with my swimming training. It may help someone new
 to get started with a new character. I left 4 of my spawned skeletons from my main character behind but unfortunately, they won't follow you and they will disappear. </p>
 
