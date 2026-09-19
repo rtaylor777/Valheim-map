@@ -19,7 +19,7 @@ of course, use them at your own risk, I make no warantee or guarantee's concerni
 <p> - No bosses have been killed yet</p>
 <p> - There are bases built in either the Meadows or the Black Forest that I have built throughout the world in strategic locations. </p>
 
-# An Orientation/Itroductory Video of the SuperCrypt40 world (29 minutes)
+## An Orientation/Itroductory Video of the SuperCrypt40 world (29 minutes)
 https://youtu.be/_CmMShQO5eI
 </br></br>
 
