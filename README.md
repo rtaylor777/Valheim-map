@@ -10,7 +10,7 @@ of course, use them at your own risk, I make no warantee or guarantee's concerni
 
 ## Note
 <p>- You can destroy and re-build any beds that you find in the shared worlds so that you can claim them as your own. </p>
-<p>- The worlds are based on Vanilla (default) Valheim, no mods are required to use them. </p>
+<p>- The worlds are based on vanilla (default) Valheim, no mods are required to use them. </p>
 
 # SuperCrypt40 World  
 ![Alt Text](images/supercrypt40base.jpg "The home base on the SuperCrypt40 world")
