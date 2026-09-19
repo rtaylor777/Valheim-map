@@ -116,6 +116,9 @@ directory/folder, 7zip should automatically find the other file. </p>
 ![Alt Text](images/new_wall.jpg "New Wall in Deep North")
 <p>I built a new walled off area in the Deep North and then saved the Solo world to this repo so that you can decide what will be built there.</p>
 
+![Alt Text](images/view_from_wall.jpg "One of the sights from the new wall")
+<p>The above is one of the views from the new wall.</p>
+
 <p>Video to introduce the Solo.7z.* downloads (yes these were called ashlands.7z.* at the time of the video)
 with the contained Supercrypt40 Solo world: https://www.twitch.tv/videos/2840918077</p>
 
