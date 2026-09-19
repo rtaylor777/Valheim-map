@@ -33,7 +33,7 @@ accross the world.
 a new world if it had been set up like I have done in this case.
 </p>
 <p>This world was created between November 2024 and February 1, 2025. You will have to explore and create your own bases in the Deep North
-on this Supercrypt40 world..</p>
+on this SuperCrypt40 world..</p>
 
 # Main Details
 <p>At the time of creating this world, that I have zipped up and shared here, I was a Black Forest level player. So, the
