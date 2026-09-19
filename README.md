@@ -45,9 +45,11 @@ https://www.twitch.tv/videos/2840918077
 
 ![Alt Text](images/MainBase.jpg "The MainBase World, room for all your storage needs")
 
-<p>The MainBase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. This was created from the seed: KQ3EHPZVA</br>
-There is one big marble building with a portal from the spawn area to it. Since most of the world is unexplored and unaltered, it may be fun to use it to
-start a new character, but with the advantage of having all the Ashlands level items, and several Deep North items. This was uploaded here on Sept 17, 2026</p>
+<p>The MainBase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. </p>
+<p>This was created from the seed: KQ3EHPZVA</p>
+<p>There is one big marble building with a portal from the spawn area to it.</p>
+<p>Since most of the world is unexplored and unaltered, it may be fun to use it to start a new character, but with the advantage of having all the Ashlands level items, and several Deep North items. </p>
+<p>This was uploaded here on Sept 17, 2026</p>
 
 ## Video intro for MainBase
 https://www.twitch.tv/videos/2839199086
