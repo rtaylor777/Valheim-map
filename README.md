@@ -4,6 +4,10 @@ Valheim is a game developed by https://irongate.se/<br/>
 # Valheim Description
 Valheim is a survival type of game, food plays an important role in the player's survivability.<br/>
 <br/>
+# Disclaimer
+<p>Download the Valheim worlds that are shared here and feel free to make them your own. I don't want them back. But,
+of course, use them at your own risk I make no warantee or guarantee's concerning them.
+  
 # Intro
 <p>Most people who play Valheim start by creating a new player, and then a new world that is based on a
 randomly generated "seed" that is provided by the game. The seed basically defines what the resulting world
