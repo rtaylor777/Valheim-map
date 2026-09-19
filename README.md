@@ -23,6 +23,8 @@ of course, use them at your own risk, I make no warantee or guarantee's concerni
 https://youtu.be/_CmMShQO5eI
 
 # Solo World (based on the SuperCrypt40 World)
+
+![Alt Text](images/solo_spawn_base.jpg "The Marble Fortress at the spawn location")
 <p>The files Solo.7z.001 and Solo.7z.002 are the Supercrypt40 map which I have renamed to Solo. This map is after I have explored Ashlands and defeated Fader.</p>
 <p>Latest as of Sept 18, 2026.</p>p
 I made sure that the Deep North has generated correctly and I have actually started working in the Deep North. You will find some Deep North items in various chests in the Marble Fortress
