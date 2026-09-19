@@ -112,6 +112,7 @@ https://youtu.be/_CmMShQO5eI
 I made sure that the Deep North has generated correctly and I have actually started working in the Deep North. You will find some Deep North items in various chests in the Marble Fortress
 that is located at the Spawn. I had to ask 7zip to break it into 2 files because of upload file size limits on Github. Use 7zip to open the first file and have the other file in the same 
 directory/folder, 7zip should automatically find the other file. </p>
+
 ![Alt Text](images/new_wall.jpg "New Wall in Deep North")
 <p>I built a new walled off area in the Deep North and then saved the Solo world to this repo so that you can decide what will be built there.</p>
 
