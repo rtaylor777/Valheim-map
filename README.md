@@ -62,6 +62,9 @@ to get started with a new character. I left 4 of my spawned skeletons from my ma
 https://www.twitch.tv/videos/2839933988
 
 # Bonemassarena World
+
+![Alt Text](images/bonemass_arena.jpg "The bonemassarena World")
+
 <p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
 useful for training (leveling skill) in various weapons. As I tried to mention in the video, it is the # of hits that levels up a skill not the amount of 
 damage that is done, so using weak weapons saves time as you don't have to spawn Bonemass as many times.</p>
@@ -70,6 +73,9 @@ damage that is done, so using weak weapons saves time as you don't have to spawn
 https://www.twitch.tv/videos/2840947855
 
 # block_trainer World
+
+![Alt Text](images/block_trainer.jpg "The blocktrainer World")
+
 <p>block_trainer.7z is another copy of the Supercrypt40solo world. I built an underground block trainer near the Bonefort that is full of skeleton archers. You
 can more quickly level up your block but it can be dangerous so watch the video to see how it works.</p>
 
