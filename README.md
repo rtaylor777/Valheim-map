@@ -29,7 +29,7 @@ https://youtu.be/_CmMShQO5eI
 
 ![Alt Text](images/solo_spawn_base.jpg "The Marble Fortress at the spawn location")
 <p>The files Solo.7z.001 and Solo.7z.002 are the Supercrypt40 map which I have renamed to Solo. This map is after I have explored Ashlands and defeated Fader.</p>
-<p>Latest upload as of Sept 21, 2026.</p>
+<p>Latest upload as of Sept 22, 2026.</p>
 <p>I made sure that the Deep North has generated correctly and I have actually started working in the Deep North. You will find some Deep North items in various chests in the Marble Fortress
 that is located at the Spawn. I had to ask 7zip to break it into 2 files because of upload file size limits on Github. Use 7zip to open the first file and have the other file in the same 
 directory/folder, 7zip should automatically find the other file. </p>
@@ -39,6 +39,8 @@ directory/folder, 7zip should automatically find the other file. </p>
 
 ![Alt Text](images/view_from_wall.jpg "One of the sights from the new wall")
 <p>The above is one of the views from the new wall.</p>
+
+<p>The latest Solo world update includes upgraded armor and the discovery of the Forge of Potential location.</p>
 
 ## Video to introduce the Solo.7z.* downloads (yes these were called ashlands.7z.* at the time of the video)
 https://www.twitch.tv/videos/2840918077
