@@ -103,7 +103,7 @@ https://www.twitch.tv/videos/2840947855
 can more quickly level up your block but it can be dangerous so watch the video to see how it works.</p>
 
 ## Intro Video for block_trainer
-https://www.twitch.tv/videos/2847223965
+https://www.youtube.com/watch?v=J1opGYYSbOs
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
