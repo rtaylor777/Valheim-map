@@ -11,16 +11,22 @@ of course, use them at your own risk, I make no warantee or guarantee's concerni
 ## Note
 <p>- You can destroy and re-build any beds that you find in the shared worlds so that you can claim them as your own. </p>
 <p>- The worlds are based on vanilla (default) Valheim, no mods are required to use them. </p>
+<p>On Oct 7, 2026 I noticed that my twitch intro videos were being deleted. I am working on copying any videos that weren't deleted over to YouTube and will
+eventually create any missing videos. Sorry for any inconvenience.</p>
 
 # Installation
 <p>1. Download the compressed file, i.e. MainBase.7z.</p>
 <p>2. Extract (expand) the file.</p>
 <p>3. In the case of the new save format after version 1.0 of Valheim, there will be a folder which is named after the world and the folder contains files.</p>
-<p>Copy the folder together with the contained files into the local worlds save location for Valheim.</p>
+<p>Prior to version 1.0, world saves consisted of two files.</p>
+<p>Copy the folder together with the contained files (or the 2 files from any old saved worlds) into the local worlds save location for Valheim.</p>
 <p>On a PC that location is in your profile in this location:</p>
 <p>%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local (on Windows)</p>
 <p>or</p>
 <p>~/.config/unity3d/IronGate/Valheim/worlds_local (on Linux)</p>
+<p>After the folder has been copied into the correct location, when you log in to Valheim the world will show up as one of the worlds that you can log into.</p>
+
+
 # SuperCrypt40 World  
 ![Alt Text](images/supercrypt40base.jpg "The home base on the SuperCrypt40 world")
 <p>The SuperCrypt40 world is based on the seed: WBFzViM6sG</p>
