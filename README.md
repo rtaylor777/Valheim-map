@@ -24,7 +24,7 @@ eventually create any missing videos. Sorry for any inconvenience.</p>
 <p>%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local (on Windows)</p>
 <p>or</p>
 <p>~/.config/unity3d/IronGate/Valheim/worlds_local (on Linux)</p>
-<p>After the folder has been copied into the correct location, when you log in to Valheim the world will show up as one of the worlds that you can log into.</p>
+<p>4/ After the folder has been copied into the correct location, when you log in to Valheim the world will show up as one of the worlds that you can log into.</p>
 
 
 # SuperCrypt40 World  
