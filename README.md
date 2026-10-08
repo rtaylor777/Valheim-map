@@ -12,6 +12,15 @@ of course, use them at your own risk, I make no warantee or guarantee's concerni
 <p>- You can destroy and re-build any beds that you find in the shared worlds so that you can claim them as your own. </p>
 <p>- The worlds are based on vanilla (default) Valheim, no mods are required to use them. </p>
 
+# Installation
+<p>1. Download the compressed file, i.e. MainBase.7z.</p>
+<p>2. Extract (expand) the file.</p>
+<p>3. In the case of the new save format after version 1.0 of Valheim, there will be a folder which is named after the world and the folder contains files.</p>
+<p>Copy the folder together with the contained files into the local worlds save location for Valheim.</p>
+<p>On a PC that location is in your profile in this location:</p>
+<p>%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local (on Windows)</p>
+<p>or</p>
+<p>~/.config/unity3d/IronGate/Valheim/worlds_local (on Linux)</p>
 # SuperCrypt40 World  
 ![Alt Text](images/supercrypt40base.jpg "The home base on the SuperCrypt40 world")
 <p>The SuperCrypt40 world is based on the seed: WBFzViM6sG</p>
