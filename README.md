@@ -72,8 +72,9 @@ https://www.twitch.tv/videos/2840918077
 <p>This was updated here on Sept 22, 2026</p>
 <p>Latest update includes upgraded armor.</p>
 
+In the below intro video, I also discuss how to make a copy of a world in case that is of interest to you.
 ## Video intro for MainBase
-https://www.twitch.tv/videos/2839199086
+https://youtu.be/MR2HREsp7mE
 
 # sc40main World
 
