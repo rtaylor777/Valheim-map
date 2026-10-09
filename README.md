@@ -27,6 +27,8 @@ eventually create any missing videos. Sorry for any inconvenience.</p>
 <p>On my system, this location looks like this: C:\Users\rtayl\AppData\LocalLow\IronGate\Valheim\worlds_local </p>
 <p>4. After the folder (or old world files) has been copied into the correct location, when you log in to Valheim the world will show up as one of the worlds that you can log into. </p>
 
+## The MainBase intro video includes steps to install the world
+https://youtu.be/MR2HREsp7mE
 
 # SuperCrypt40 World  
 ![Alt Text](images/supercrypt40base.jpg "The home base on the SuperCrypt40 world")
