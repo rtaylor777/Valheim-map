@@ -11,7 +11,7 @@ of course, use them at your own risk, I make no warantee or guarantee's concerni
 ## Note
 <p>- You can destroy and re-build any beds that you find in the shared worlds so that you can claim them as your own. </p>
 <p>- The worlds are based on vanilla (default) Valheim, no mods are required to use them. </p>
-<p>On Oct 7, 2026 I noticed that my twitch intro videos were being deleted. I am working on copying any videos that weren't deleted over to YouTube and will
+<p> - On Oct 7, 2026 I noticed that my twitch intro videos were being deleted. I am working on copying any videos that weren't deleted over to YouTube and will
 eventually create any missing videos. Sorry for any inconvenience.</p>
 
 # Installation
