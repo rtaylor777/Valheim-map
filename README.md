@@ -24,6 +24,7 @@ eventually create any missing videos. Sorry for any inconvenience.</p>
 <p>%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local (on Windows)</p>
 <p>or</p>
 <p>~/.config/unity3d/IronGate/Valheim/worlds_local (on Linux)</p>
+<p>On my system, this location looks like this: C:\Users\rtayl\AppData\LocalLow\IronGate\Valheim\worlds_local </p>
 <p>4. After the folder (or old world files) has been copied into the correct location, when you log in to Valheim the world will show up as one of the worlds that you can log into. </p>
 
 
