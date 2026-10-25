@@ -70,8 +70,8 @@ https://www.twitch.tv/videos/2840918077
 <p>The MainBase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. </p>
 <p>This was created from the seed: KQ3EHPZVA</p>
 <p>There is one big marble building with a portal from the spawn area to it.</p>
-<p>Since most of the world is unexplored and unaltered, it may be fun to use it to start a new character, but with the advantage of having all the Ashlands level items, and several Deep North items. </p>
-<p>This was updated here on Sept 22, 2026</p>
+<p>Since most of the world is unexplored and unaltered, it may be fun to use it to start a new character, but with the advantage of having all the Ashland's level items, and practically all Deep North items. </p>
+<p>This was updated here on October 24, 2026</p>
 <p>Latest update includes upgraded armor.</p>
 
 In the below intro video, I also discuss how to make a copy of a world in case that is of interest to you.
