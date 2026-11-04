@@ -70,8 +70,8 @@ https://www.twitch.tv/videos/2840918077
 <p>The MainBase.7z is my storage world that I created to save all my stuff from several different Valheim worlds. </p>
 <p>This was created from the seed: KQ3EHPZVA</p>
 <p>There is one big marble building with a portal from the spawn area to it.</p>
-<p>Since most of the world is unexplored and unaltered, it may be fun to use it to start a new character, but with the advantage of having all the Ashland's level items, and practically all Deep North items. </p>
-<p>This was updated here on October 24, 2026</p>
+<p>Spoiler alert! Practically all the items from the game can be found in one of the chests in the marble building.</p>
+<p>This was updated here on November 4, 2026</p>
 <p>Latest update includes upgraded armor.</p>
 
 In the below intro video, I also discuss how to make a copy of a world in case that is of interest to you.
@@ -108,6 +108,20 @@ can more quickly level up your block but it can be dangerous so watch the video 
 
 ## Intro Video for block_trainer
 https://www.youtube.com/watch?v=J1opGYYSbOs
+
+# SoloFin World
+
+![Alt Text](images/deepnorthfortress.jpg "The Solofin Deep North Fortress")
+![Alt Text](images/last_boss.jpg "The achievements from the Last Boss")
+
+<p>This is the continuation of the Solo World that was based on the the SuperCrypt40 World.</p>
+<p>There are 3 files that you will need to download and extract to recover this world for your system. Use 7zip to extract the first file and have the other 2 files in the same directory
+and they will also be extracted.</p>
+<p>You can see an image of the fortress that I built in the Deep North, as well as the achievements that I recevieved
+when I defeated the final boss.</p>
+<p>A word of caution, not only will you see items and locations that could be considered a spoiler when you examine this world,
+but there are spawns from virtually all the biomes that can show up in any biome including the beginner Meadows biome so be careful as you 
+look around.</p>
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
