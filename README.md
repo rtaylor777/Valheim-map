@@ -71,8 +71,8 @@ https://www.twitch.tv/videos/2840918077
 <p>This was created from the seed: KQ3EHPZVA</p>
 <p>There is one big marble building with a portal from the spawn area to it.</p>
 <p>Spoiler alert! Practically all the items from the game can be found in one of the chests in the marble building.</p>
-<p>This was updated here on November 4, 2026</p>
-<p>Latest update includes upgraded armor.</p>
+<p>This was updated here on November 12, 2026</p>
+<p>Latest update has some Writhan trophies and Writhan roots.</p>
 
 In the below intro video, I also discuss how to make a copy of a world in case that is of interest to you.
 ## Video intro for MainBase
