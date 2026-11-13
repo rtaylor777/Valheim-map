@@ -60,8 +60,6 @@ directory/folder, 7zip should automatically find the other file. </p>
 
 <p>The latest Solo world update includes upgraded armor and the discovery of the Forge of Potential location.</p>
 
-## Video to introduce the Solo.7z.* downloads (yes these were called ashlands.7z.* at the time of the video)
-https://www.twitch.tv/videos/2840918077
 
 # MainBase World
 
@@ -85,19 +83,12 @@ https://youtu.be/MR2HREsp7mE
 <p>sc40main.7z is a new world using my favorite seed: WBFzViM6sG. I have created a shack on the beach to aid with my swimming training. It may help someone new
 to get started with a new character. I left 4 of my spawned skeletons from my main character behind but unfortunately, they won't follow you and they will disappear. </p>
 
-## Video intro for sc40main
-https://www.twitch.tv/videos/2839933988
-
 # Bonemassarena World
 
 ![Alt Text](images/bonemass_arena.jpg "The bonemassarena World")
 
 <p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
-useful for training (leveling skill) in various weapons. As I tried to mention in the video, it is the # of hits that levels up a skill not the amount of 
-damage that is done, so using weak weapons saves time as you don't have to spawn Bonemass as many times.</p>
-
-## Intro Video for Bonemassarena
-https://www.twitch.tv/videos/2840947855
+useful for training (leveling skill) in various weapons. Find the Bonetree portal and travel there to get to the arena.</p>
 
 # block_trainer World
 
@@ -120,7 +111,7 @@ and they will also be extracted.</p>
 <p>You can see an image of the fortress that I built in the Deep North, as well as the achievements that I recevieved
 when I defeated the final boss.</p>
 <p>A word of caution, not only will you see items and locations that could be considered a spoiler when you examine this world,
-but there are spawns from virtually all the biomes that can show up in any biome including the beginner Meadows biome so be careful as you 
+but there are spawns from virtually all of the biomes that can show up in any biome including the beginner Meadows biome so be careful as you 
 look around.</p>
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
