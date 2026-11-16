@@ -83,12 +83,13 @@ https://youtu.be/MR2HREsp7mE
 <p>sc40main.7z is a new world using my favorite seed: WBFzViM6sG. I have created a shack on the beach to aid with my swimming training. It may help someone new
 to get started with a new character. I left 4 of my spawned skeletons from my main character behind but unfortunately, they won't follow you and they will disappear. </p>
 
-# Bonemassarena World
+# Bonemass_arena World
 
 ![Alt Text](images/bonemass_arena.jpg "The bonemassarena World")
 
 <p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
 useful for training (leveling skill) in various weapons. Find the Bonetree portal and travel there to get to the arena.</p>
+<p>Last updated: November 16, 2026</p>
 
 # block_trainer World
 
