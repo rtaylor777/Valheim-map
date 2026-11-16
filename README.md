@@ -87,7 +87,7 @@ to get started with a new character. I left 4 of my spawned skeletons from my ma
 
 ![Alt Text](images/bonemass_arena.jpg "The bonemassarena World")
 
-<p>Bonemassarena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
+<p>bonemass_arena.7z is a copy of the Supercrypt40solo world that has been altered to provide a sort of arena (training area) for defeating Bonemass. It is
 useful for training (leveling skill) in various weapons. Find the Bonetree portal and travel there to get to the arena.</p>
 <p>Last updated: November 16, 2026</p>
 
