@@ -132,7 +132,10 @@ name and click Edit in order to rename the character and change his appearance.<
 <p>If you did not already rename the file to match your new character name you should exit Valheim and rename the file now so that
 it matches the name that you used for your character.</p>
 <p>Once that is done you can use this new character of yours for a new play-through in Valheim.</p>
+
 <p>Some characteristics of this Template character are:</p>
+<p> - This character has not died yet.</p>
+<p> - This character has not killed any bosses yet.<p>
 <p> - He has played through the starting Biome (the Meadows) and completed a few achievements as well as interacted
 with Hugin the Raven. As a result, this is probably not a template that a user who is new to Valheim should use.</p>
 <p> - He has also visited other worlds and leveled up 13 skills to 100.</p>
