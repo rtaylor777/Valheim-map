@@ -117,7 +117,7 @@ look around.</p>
 
 # Templates.7z
 <p>Note that for now this 7zip file is password protected</p>
-<p>The target audience for this file would be a veteran Valheim player who would like to start a new playthrough with a character that already has some skills leveled up to 100.</p>
+<p>The target audience for this file would be a veteran Valheim player who would like to start a new play-through with a character that already has some skills leveled up to 100.</p>
 <p>Inside Templates.7z, which was a folder that was compressed by 7zip, you will find Template.fch. This is a character file which has special
 characteristics and a special purpose. By using a mod called CharacterEditButton v0.9.1 by cjayride, you are able to rename the
 character and change his appearance. For the ladies, you can even make the character a female.</p>
