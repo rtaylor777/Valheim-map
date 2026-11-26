@@ -116,7 +116,8 @@ but there are spawns from virtually all of the biomes that can show up in any bi
 look around.</p>
 
 # Templates.7z
-
+<p>Note that for now this 7zip file is password protected</p>
+<p>The target audience for this file would be a veteran Valheim player who would like to start a new playthrough with a character that already has some skills leveled up to 100.</p>
 <p>Inside Templates.7z, which was a folder that was compressed by 7zip, you will find Template.fch. This is a character file which has special
 characteristics and a special purpose. By using a mod called CharacterEditButton v0.9.1 by cjayride, you are able to rename the
 character and change his appearance. For the ladies, you can even make the character a female.</p>
@@ -124,10 +125,19 @@ character and change his appearance. For the ladies, you can even make the chara
 <p>%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\characters_local (on Windows)</p>
 <p>or</p>
 <p>~/.config/unity3d/IronGate/Valheim/characters_local (on Linux)</p>
+<p>On my system, this location looks like this: C:\Users\rtayl\AppData\LocalLow\IronGate\Valheim\characters_local </p>
 <p>You can rename the file first but then in the characters list in Valhiem it will show up like this: newname(Template)</p>
 <p>Once you have the CharacterEditButton mod installed, when you start Valheim you will be able to select the Template character
 name and click Edit in order to rename the character and change his appearance.</p>
-
+<p>If you did not already rename the file to match your new character name you should exit Valheim and rename the file now so that
+it matches the name that you used for your character.</p>
+<p>Once that is done you can use this new character of yours for a new play-through in Valheim.</p>
+<p>Some characteristics of this Template character are:</p>
+<p> - He has played through the starting Biome (the Meadows) and completed a few achievements as well as interacted
+with Hugin the Raven. As a result, this is probably not a template that a user who is new to Valheim should use.</p>
+<p> - He has also visited other worlds and leveled up 13 skills to 100.</p>
+<p> - He has seen things that a new character should not normally see until much later in the game.</p>
+<p> - He is equipped with a rag tunic and a torch just like a new player would be.</p>
 
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
