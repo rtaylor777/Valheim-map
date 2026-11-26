@@ -126,7 +126,7 @@ character and change his appearance. For the ladies, you can even make the chara
 <p>or</p>
 <p>~/.config/unity3d/IronGate/Valheim/characters_local (on Linux)</p>
 <p>On my system, this location looks like this: C:\Users\rtayl\AppData\LocalLow\IronGate\Valheim\characters_local </p>
-<p>You can rename the file first but then in the characters list in Valhiem it will show up like this: newname(Template)</p>
+<p>You can rename the file first but then in the characters list in Valhiem it will show up like this: TEMPLATE(newname)</p>
 <p>Once you have the CharacterEditButton mod installed, when you start Valheim you will be able to select the Template character
 name and click Edit in order to rename the character and change his appearance.</p>
 <p>If you did not already rename the file to match your new character name you should exit Valheim and rename the file now so that
