@@ -115,6 +115,20 @@ when I defeated the final boss.</p>
 but there are spawns from virtually all of the biomes that can show up in any biome including the beginner Meadows biome so be careful as you 
 look around.</p>
 
+# Templates.7z
+
+<p>Inside Templates.7z, which was a folder that was compressed by 7zip, you will find Template.fch. This is a character file which has special
+characteristics and a special purpose. By using a mod called CharacterEditButton v0.9.1 by cjayride, you are able to rename the
+character and change his appearance. For the ladies, you can even make the character a female.</p>
+<p>To start, extract the zip and copy the Template.fch file to your characters_local folder in the Valheim save directory.</p>
+<p>%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\characters_local (on Windows)</p>
+<p>or</p>
+<p>~/.config/unity3d/IronGate/Valheim/characters_local (on Linux)</p>
+<p>You can rename the file first but then in the characters list in Valhiem it will show up like this: newname(Template)</p>
+<p>Once you have the CharacterEditButton mod installed, when you start Valheim you will be able to select the Template character
+name and click Edit in order to rename the character and change his appearance.</p>
+
+
 # Video Streams/Streamers that use SuperCrypt40 as their world
 https://www.twitch.tv/loficody
 
